@@ -1,0 +1,19 @@
+{
+    "name": "gean/testeum",
+    "description": "Pacote teste",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.2@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gean Pedro",
+            "email": "geanpn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
