@@ -20,5 +20,5 @@
             "email": "geanpn@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
