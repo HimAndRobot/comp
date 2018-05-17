@@ -1,9 +1,9 @@
 {
     "name": "gean/testeum",
     "description": "Pacote teste",
-    "type": "project",
+    "type": "package",
     "require": {
-        "monolog/monolog": "*"
+        "monolog/monolog": "^1.9.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.2@dev"
